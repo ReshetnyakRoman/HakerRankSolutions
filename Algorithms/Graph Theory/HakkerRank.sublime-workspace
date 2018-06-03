@@ -1,0 +1,1304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"abba"
+			],
+			[
+				"стр",
+				"страниц"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w3-tex",
+				"w3-text-grey\t(myjscript.js)"
+			],
+			[
+				"w3-ma",
+				"w3-margin-top"
+			],
+			[
+				"ts",
+				"tshirtSize1"
+			],
+			[
+				"main",
+				"mainTable"
+			],
+			[
+				"copm",
+				"competition"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"w3-hover-text-gr",
+				"w3-hover-text-green\t(w3.css)"
+			],
+			[
+				"vol",
+				"volunteers\t(myjscript.js)"
+			],
+			[
+				"com",
+				"competition"
+			],
+			[
+				"co",
+				"competition"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"def",
+				"default\t(additional tables in SQL.txt)"
+			],
+			[
+				"rou",
+				"routeNuber\tstatement"
+			],
+			[
+				"w3-text",
+				"w3-text-green"
+			],
+			[
+				"phon",
+				"phone1"
+			],
+			[
+				"pho",
+				"phone1\t(additional tables in SQL.txt)"
+			],
+			[
+				"count",
+				"country\t(additional tables in SQL.txt)"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"load",
+				"loader_section\t(base.html)"
+			],
+			[
+				"sta",
+				"static\t(base.html)"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"ur",
+				"url_for('competition.results_publish"
+			],
+			[
+				"comp",
+				"competitionStatus"
+			],
+			[
+				"pare",
+				"parents"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"cla",
+				"class\t(rules.html)"
+			],
+			[
+				"setI",
+				"setTimeout"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"compe",
+				"competitionName"
+			],
+			[
+				"filter",
+				"filter_by"
+			],
+			[
+				"tea",
+				"teamName\tstatement"
+			],
+			[
+				"fon",
+				"font-size\t(results.html)"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"w3-c",
+				"w3-center\t(press.html)"
+			],
+			[
+				"bu",
+				"button-upload2\t(galleries.html)"
+			],
+			[
+				"lo",
+				"loader"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"wa",
+				"waitingListYes\t(users.py)"
+			],
+			[
+				"соре",
+				"соревнованиях"
+			],
+			[
+				"заре",
+				"зарегестрирована"
+			],
+			[
+				"be",
+				"bestMix2\tstatement"
+			],
+			[
+				"bes",
+				"bestMix1\tstatement"
+			],
+			[
+				"iconDescriptionEng",
+				"iconDescriptionEng=info.iconDescriptionEng\t(admin.html)"
+			],
+			[
+				"w3-p",
+				"w3-padding-small\t(admin.html)"
+			],
+			[
+				"w3-bo",
+				"w3-border-bottom"
+			],
+			[
+				"w3-bord",
+				"w3-border-white"
+			],
+			[
+				"edi",
+				"edit_page\t(views.py)"
+			],
+			[
+				"w3-",
+				"w3-padding"
+			],
+			[
+				"w3-hover-text",
+				"w3-hover-text-red\t(base.html)"
+			],
+			[
+				"w3-d",
+				"w3-display-container\t(base.html)"
+			],
+			[
+				"icon",
+				"iconDescriptionEng\t(views.py)"
+			],
+			[
+				"edit",
+				"edit_page\t(admin.html)"
+			],
+			[
+				"ico",
+				"iconDescription"
+			],
+			[
+				"bo",
+				"bodyHTML\t(site.py)"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"w3-di",
+				"w3-display-container"
+			],
+			[
+				"w3-text-bl",
+				"w3-text-blue"
+			],
+			[
+				"w3-border",
+				"w3-border"
+			],
+			[
+				"mar",
+				"margin-top\t(base.html)"
+			],
+			[
+				"max",
+				"max\tAttr"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"w3-hover-red",
+				"w3-hover-red-d3"
+			],
+			[
+				"paddin",
+				"padding-left\t(w3.css)"
+			],
+			[
+				"w3-roun",
+				"w3-round-xlarge"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"w3-padding",
+				"w3-padding-small"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"w3-red",
+				"w3-red-d3\t(base.html)"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"fil",
+				"filter_by"
+			],
+			[
+				"filte",
+				"filter_by"
+			],
+			[
+				"w3-hd",
+				"w3-hide\t(myjscript.js)"
+			],
+			[
+				"w3-te",
+				"w3-text-grey\t(myjscript.js)"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"ga",
+				"gallery"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"par",
+				"parentElement"
+			],
+			[
+				"vis",
+				"visibility\t(gallery.css)"
+			],
+			[
+				"w3-co",
+				"w3-container"
+			],
+			[
+				"sli",
+				"slideshow\t(photo-gallery.html)"
+			],
+			[
+				"op",
+				"opacity\t(gallery.css)"
+			],
+			[
+				"vi",
+				"visibility\t(gallery.css)"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"dis",
+				"displayLoginForm\t(views.py)"
+			],
+			[
+				"cure",
+				"current_user"
+			],
+			[
+				"w3-b",
+				"w3-btn-1"
+			],
+			[
+				"gal",
+				"galleryName"
+			],
+			[
+				"gall",
+				"gallery"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"img",
+				"imgName"
+			],
+			[
+				"cur",
+				"current_user"
+			],
+			[
+				"log",
+				"login_required"
+			],
+			[
+				"cop",
+				"competition"
+			],
+			[
+				"w3-t",
+				"w3-text-grey\t(myjscript.js)"
+			],
+			[
+				"сп",
+				"спонсора"
+			],
+			[
+				"пар",
+				"партнер\t(views.py)"
+			],
+			[
+				"генер",
+				"генеральный\t(views.py)"
+			],
+			[
+				"sp",
+				"sponsors"
+			],
+			[
+				"url",
+				"url_for\t(views.py)"
+			],
+			[
+				"spo",
+				"sponsorName\t(views.py)"
+			],
+			[
+				"lin",
+				"linkToSponsor\t(views.py)"
+			],
+			[
+				"ima",
+				"images\tstatement"
+			],
+			[
+				"spon",
+				"sponsorType\t(site.py)"
+			],
+			[
+				"vid",
+				"video"
+			],
+			[
+				"con",
+				"contacts\t(views.py)"
+			],
+			[
+				"w3-an",
+				"w3-animate-input\t(contacts.html)"
+			],
+			[
+				"my",
+				"my-flex"
+			],
+			[
+				"Con",
+				"Contacts\t(site.py)"
+			],
+			[
+				"na",
+				"nameRus"
+			],
+			[
+				"name",
+				"nameRus\tstatement"
+			],
+			[
+				"w3-bor",
+				"w3-border-blue\t(competitionAdmin.html)"
+			],
+			[
+				"doc",
+				"documentation\t(views.py)"
+			],
+			[
+				"r",
+				"routes"
+			],
+			[
+				"hig",
+				"highlightFinals"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"hi",
+				"highlightFinals"
+			],
+			[
+				"Cop",
+				"Competition"
+			],
+			[
+				"open",
+				"open_registration"
+			],
+			[
+				"close_co",
+				"close_competition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Breadth First Search- Shortest Reach.py",
+			"settings":
+			{
+				"buffer_size": 1294,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run virtualenv python",
+					""
+				],
+				[
+					"Run virtualenv python",
+					"Run all Tests"
+				]
+			],
+			[
+				"Run virtualenv python",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "liver",
+		"selected_items":
+		[
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"anaconda",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"hig",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"subli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"themer",
+				"Themr: List themes"
+			],
+			[
+				"linnt",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"termeina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Package Control:",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"liveRe",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereloa",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 474.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cd ..",
+			"stylus -w mystyle.styl",
+			"stylus --w mystyle.styl",
+			"stylus --w maystyle.styl",
+			"stylus -w maystyle.styl",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/macbookpro15/Documents/HakkerRank"
+	],
+	"file_history":
+	[
+		"/Users/macbookpro15/Documents/HakkerRank/HakkerRank.sublime-project",
+		"/Users/macbookpro15/Documents/30 days marathon/test.html",
+		"/Users/macbookpro15/Documents/30 days marathon/python.py",
+		"/Users/macbookpro15/Documents/30 days marathon/untitled",
+		"/Users/macbookpro15/Documents/30 days marathon/Простая сортировка (N2 иттераций).py",
+		"/Users/macbookpro15/Documents/30 days marathon/количество перелистываний.py",
+		"/Users/macbookpro15/Documents/30 days marathon/количесвто пройденных равнин.py",
+		"/Users/macbookpro15/Documents/programming/system services setup (CentOS7).txt",
+		"/Users/macbookpro15/Documents/programming/uwsgi.ini",
+		"/Users/macbookpro15/Documents/programming/Stepanych/additional tables in SQL.txt",
+		"/Users/macbookpro15/Documents/programming/README.md",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/volunteers.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/competitionAdmin.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/tshirts.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/base.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/competition/allteams.py",
+		"/Users/macbookpro15/Documents/programming/Stepanich_backup.sql",
+		"/Users/macbookpro15/Documents/programming/Stepanych/auth/form.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/js/myjscript.js",
+		"/Users/macbookpro15/Documents/programming/Stepanych/competition/competitionAdmin.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/models/users.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/models/competition.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/css/w3.css",
+		"/Users/macbookpro15/Documents/programming/Stepanych/models/site.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/media/galleries.html",
+		"/Users/macbookpro15/Documents/programming/firewalld configuration.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/media/photo-gallery.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/site/__init__.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/media/views.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/competition/routes.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/routes.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/competition/results.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/allteams.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/node_modules/nib/iconic/iconic.css",
+		"/Users/macbookpro15/Documents/programming/Stepanych/auth/views.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/allmembers.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/profile.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/index.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/registredTeams.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/results.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/archive.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/competition/form.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/static/js/jquery.h5validate.js",
+		"/Users/macbookpro15/Documents/programming/Stepanych/css/mystyles.css",
+		"/Users/macbookpro15/Documents/programming/Stepanych/stylus/mystyles.styl",
+		"/Users/macbookpro15/Documents/programming/img_backup.tar",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/news/_posts.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/css/simditor-comments.css",
+		"/Users/macbookpro15/Documents/programming/doc_backup.tar",
+		"/Users/macbookpro15/Documents/programming/Stepanych/site/views.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/news/views.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/news/form.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/main/views.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/info/views.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/competition/registredTeams.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/contacts.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/500.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/405.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/404.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/403.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/401.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/400.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/site/editpage.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/site/docs.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/site/admin.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/news/post.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/news/newpost.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/news/editpost.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/media/video.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/media/press.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/info/sponsors.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/info/rules.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/preporation.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/unconfirmed.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/email/newemail.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/teamoffice.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/pswresend.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/newpassword.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/email/confirm.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/email/confirm.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/email/newemail.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/email/newpassword.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/newemail.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/email/pswresendemail.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/email/pswresendemail.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/auth/email/newpassword.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/static/js/myjscript.js",
+		"/Users/macbookpro15/Documents/programming/Stepanych/models/routes.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/models/users_bakup.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/archive backup.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/results-backup3.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/results-backup2.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/results-bakup.html",
+		"/Users/macbookpro15/Documents/programming/config.py",
+		"/Users/macbookpro15/Documents/programming/настройка firewalld.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/site/page.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/info/history.html",
+		"/Users/macbookpro15/Documents/programming/links_for_Stepanich_content.txt",
+		"/Users/macbookpro15/Documents/programming/start-uwsgi.ini",
+		"/Users/macbookpro15/Documents/programming/nginx configuration.txt",
+		"/Users/macbookpro15/Documents/programming/sftp-config.json",
+		"/Users/macbookpro15/Documents/programming/manage.py",
+		"/Users/macbookpro15/Documents/programming/config_prod.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/models/post.py",
+		"/Users/macbookpro15/Documents/programming/ReadME.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/config.py",
+		"/Users/macbookpro15/Documents/programming/python_venv_uwsgi.txt",
+		"/Users/macbookpro15/Documents/programming/note.txt",
+		"/Users/macbookpro15/Documents/programming/tests/nginx tips.txt",
+		"/Users/macbookpro15/Documents/programming/gulp and stylus.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/manage_for_git.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/links.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/подсказка по запуску сервера.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/news/_comments.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/nginx-access.log",
+		"/Users/macbookpro15/Documents/programming/Stepanych/Icons.txt",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/base-backup.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/main/errors.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/css/gallery.css",
+		"/Users/macbookpro15/Documents/programming/Stepanych/static/js/cbpGridGallery.js",
+		"/Users/macbookpro15/Documents/programming/Stepanych/static/js/modernizr.custom.js",
+		"/Users/macbookpro15/Documents/programming/Stepanych/static/js/classie.js",
+		"/Users/macbookpro15/Documents/programming/Stepanych/__init__.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/info/__init__.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/media/__init__.py",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/contacts-backup.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/documentation.html",
+		"/Users/macbookpro15/Documents/programming/Stepanych/templates/competition/competitionAdmin-backup.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Breadth First Search- Shortest Reach.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1294,
+								1294
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1293,
+										1294
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1251,
+										1252
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 127.0
+	},
+	"pinned_build_system": "Run virtualenv python",
+	"project": "HakkerRank.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"w3",
+				"Stepanych/css/w3.css"
+			],
+			[
+				"icon",
+				"programming/Stepanych/node_modules/nib/iconic/iconic.css"
+			],
+			[
+				"myjs",
+				"Stepanych/js/myjscript.js"
+			],
+			[
+				"bas",
+				"Stepanych/templates/base.html"
+			],
+			[
+				"my",
+				"Stepanych/js/myjscript.js"
+			],
+			[
+				"base",
+				"programming/Stepanych/templates/base.html"
+			],
+			[
+				"myj",
+				"Stepanych/js/myjscript.js"
+			],
+			[
+				"w",
+				"Stepanych/css/w3.css"
+			],
+			[
+				"ico",
+				"Stepanych/Icons.txt"
+			],
+			[
+				"view",
+				"Stepanych/auth/views.py"
+			],
+			[
+				"w3.s",
+				"Stepanych/css/w3.css"
+			],
+			[
+				"route",
+				"Stepanych/templates/competition/routes.html"
+			],
+			[
+				"user",
+				"Stepanych/models/users.py"
+			],
+			[
+				"rout",
+				"Stepanych/templates/competition/routes.html"
+			],
+			[
+				"con",
+				"programming/config.py"
+			],
+			[
+				"allme",
+				"Stepanych/templates/competition/allmembers.html"
+			],
+			[
+				"conf",
+				"programming/config.py"
+			],
+			[
+				"confi",
+				"programming/config.py"
+			],
+			[
+				"ind",
+				"Stepanych/templates/index.html"
+			],
+			[
+				"inde",
+				"Stepanych/templates/index.html"
+			],
+			[
+				"b",
+				"programming/Stepanych/templates/base.html"
+			],
+			[
+				"team",
+				"Stepanych/templates/auth/teamoffice.html"
+			],
+			[
+				"users",
+				"Stepanych/models/users.py"
+			],
+			[
+				"allte",
+				"Stepanych/templates/competition/allteams.html"
+			],
+			[
+				"alltea",
+				"Stepanych/competition/allteams.py"
+			],
+			[
+				"tea",
+				"Stepanych/templates/auth/teamoffice.html"
+			],
+			[
+				"index",
+				"programming/Stepanych/templates/index.html"
+			],
+			[
+				"w3.css",
+				"Stepanych/css/w3.css"
+			],
+			[
+				"mystyl",
+				"Stepanych/css/mystyles.css"
+			],
+			[
+				"mys",
+				"programming/MySQL tips.txt"
+			],
+			[
+				"models",
+				"programming/Stepanych/models.py"
+			],
+			[
+				"newpos",
+				"Stepanych/templates/news/newpost.html"
+			],
+			[
+				"model",
+				"programming/Stepanych/models.py"
+			],
+			[
+				"form",
+				"Stepanych/auth/form.py"
+			],
+			[
+				"for",
+				"Stepanych/auth/form.py"
+			],
+			[
+				"login",
+				"Stepanych/templates/auth/login.html"
+			],
+			[
+				"conta",
+				"Stepanych/templates/contacts.html"
+			],
+			[
+				"cong",
+				"config.py"
+			],
+			[
+				"re",
+				"dynamic/results.html"
+			],
+			[
+				"ic",
+				"Icons.txt"
+			],
+			[
+				"rou",
+				"dynamic/routes.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"coma",
+				"dynamic/comandlist.html"
+			],
+			[
+				"rule",
+				"html/rules.html"
+			],
+			[
+				"spon",
+				"html/sponsors.html"
+			],
+			[
+				"menu",
+				"menutest.html"
+			],
+			[
+				"not",
+				"notes.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
