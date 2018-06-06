@@ -21,8 +21,8 @@ function numberOfPrimes(n){
     }
 
     return A.filter(x=>x==true).length-2
-    
 }
+
 //count number of combinations:
 function RedJohn(n) {
     var variants=0;
